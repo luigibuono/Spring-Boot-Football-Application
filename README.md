@@ -1,1 +1,3 @@
-# Fanta-Serie-A-java
+# SPRING BOOT
+
+<h1>FOLDER SRC/MAIN/RESOURCES </h1>
