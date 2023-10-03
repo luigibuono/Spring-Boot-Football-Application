@@ -37,4 +37,7 @@ Inside the API folder, we will create controllers that manage the various REST A
 
 </h4>
 
+Build Commnand : .mvn clean  <br>
+
+Start Command : java -jar nome .jar <br>
 
